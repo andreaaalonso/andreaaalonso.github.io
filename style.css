@@ -1,0 +1,58 @@
+body {
+  height: 600px;
+  background-color: white;
+  border-color: rosybrown;
+  border-style: dotted;
+  width: 35%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.subheading {
+  text-align: center;
+}
+
+.child {
+  border-style: dotted;
+  border-color: rosybrown;
+  padding-top: 20px;
+  height: 300px;
+  background-color: plum;
+  width: 95%;
+  margin: auto;
+}
+
+.first-child {
+  width: 95%;
+  height: 200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.header-footer {
+  font-weight: lighter;
+  border-style: dotted;
+  border-color: rosybrown;
+  height: 80px;
+  width: 95%;
+  margin: auto;
+  background-color: plum;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.footer {
+  border-style: dotted;
+  border-color: rosybrown;
+  padding-top: 20px;
+  height: 90px;
+  background-color: plum;
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
